@@ -68,3 +68,57 @@
     </div>
 </body>
 </html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favoritt Apper</title>
+    <style>
+        .app-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            margin-top: 20px;
+        }
+        .app {
+            margin: 20px;
+            text-align: center;
+            font-size: 14px;
+        }
+        .app img {
+            width: 60px;
+            height: 60px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <div class="app">
+            <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" alt="TikTok">
+            <p>TikTok</p>
+        </div>
+        <div class="app">
+            <img src="https://cdn-icons-png.flaticon.com/512/1384/1384055.png" alt="Snapchat">
+            <p>Snapchat</p>
+        </div>
+        <div class="app">
+            <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter/X">
+            <p>X</p>
+        </div>
+        <div class="app">
+            <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube">
+            <p>YouTube</p>
+        </div>
+        <div class="app">
+            <img src="https://cdn.iconscout.com/icon/free/png-256/clash-royale-1709569-1458345.png" alt="Clash Royale">
+            <p>Clash Royale</p>
+        </div>
+        <div class="app">
+            <img src="https://cdn2.iconfinder.com/data/icons/flat-icons-19/512/Clash_of_Clans.png" alt="Clash of Clans">
+            <p>Clash of Clans</p>
+        </div>
+    </div>
+</body>
+</html>
