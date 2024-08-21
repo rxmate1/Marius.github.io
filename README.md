@@ -1,4 +1,4 @@
-Mariuswlar.github.io
+
 <html lang="no">
 <head>
     <meta charset="UTF-8">
@@ -62,7 +62,6 @@ Mariuswlar.github.io
     </style>
 </head>
 <body>
-    <h1>Velkommen til nettsiden min</h1>
     <div class="info">
         <p>Snapchat: <strong>mario.larsen</strong></p>
         <p>Twitter/X: <a href="https://x.com/MarioFN__" class="link" target="_blank">@MarioFN__</a></p>
